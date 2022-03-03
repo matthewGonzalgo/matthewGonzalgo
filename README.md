@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I’m currently pursuing a Bachelor's of Science at Caltech and will be working at Google as a Software Engineer in the Fall.
+I’m currently pursuing a Bachelor's of Science at Caltech majoring in Computer Science and minoring in Information & Data Science.
+
 <!-- 
 ![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=matthewGonzalgo&show_icons=true&theme=tokyonight)
 
