@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 I’m currently pursuing a Bachelor's of Science at Caltech and will be working at Google as a Software Engineer in the Fall.
-
+<!-- 
 ![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=matthewGonzalgo&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matthewGonzalgo&layout=compact)](https://github.com/matthewGonzalgo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matthewGonzalgo&layout=compact)](https://github.com/matthewGonzalgo/github-readme-stats) -->
